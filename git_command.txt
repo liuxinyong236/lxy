@@ -1,1 +1,9 @@
 1.ls   列出当前目录下的文件和文件夹
+2.git add xxx.xxx  将文件名为xxx.xxx的文件添加到git仓库
+3.pwd   显示当前路径
+4.git init  建仓  将当前目录作为git管理的仓库
+5.git commit -m "此处写修改说明"   提交文件到仓库
+6 git config --global user.name "xxxxx"  设置用户名为xxxxx
+7.git config --global user.email "xxx@xxx.com"  设置邮箱为xxx@xxx.com
+8.git status   查看仓库当前状态
+9.git diff xxx.xxx     查看xxx.xxx的修改内容

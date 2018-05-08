@@ -13,3 +13,5 @@
 13.  git reset --hard xxxxx                            退回到xxxxx开头的版本号
 14.  git reflog                                        记录版本修改列表
 15.  git diff HEAD --xxx.xxx                           查看xxx.xxx文件在工作区和版本库的差别
+16.  wq                                                文档保存并退出
+17.  vi xxx.xxx                                        编辑名为xxx.xxx的文件

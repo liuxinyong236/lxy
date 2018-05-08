@@ -1,4 +1,5 @@
 1.   ls                                                列出当前目录下的文件和文件夹
+     ls -ah                                            列出当前目录下的包括隐藏文件在内的文件和文件夹
 2.   git add xxx.xxx                                   将文件名为xxx.xxx的文件添加到git仓库
 3.   pwd                                               显示当前路径
 4.   git init                                          建仓  将当前目录作为git管理的仓库
@@ -16,3 +17,7 @@
 16.  wq                                                文档保存并退出
 17.  vi xxx.xxx                                        编辑名为xxx.xxx的文件
 18.  git checkout -- xxx.xxx                           撤销工作区的修改
+19.  git push -u origin master                         将本地仓库内容推送到远程并将两者相关联  origin 为远程仓库
+20.  git remote add origin http://github.com/liuxinyong236/lxy.git
+                                                       创建远程仓库 名为origin
+21.  git --versiono                                    查看git版本号													   

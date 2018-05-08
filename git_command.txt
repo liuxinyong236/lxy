@@ -8,3 +8,5 @@
 8.   git status                                        查看仓库当前状态
 9.   git diff xxx.xxx                                  查看xxx.xxx的修改内容
 10.  git log                                           显示从最近到最远的修改版本信息
+11.  git cat xxx.xxx                                   查看xxx.xxx的内容
+12.  git reset --hard HEAD^                            退回到上一个版本
